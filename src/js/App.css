@@ -1,0 +1,21 @@
+.todo-input::placeholder{
+    color: gray
+}
+
+.todo-btn{
+    background: rgb(31, 154, 185);
+    color: white;
+    border: none;
+    cursor: pointer;
+
+}
+
+.Todo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: beige;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    cursor: pointer;
+}
